@@ -1,6 +1,8 @@
 # online-resume
 Online Resume | Web Developer & Virtual Assistant
 
+View Project: https://mpbalo-webdev.github.io/online-resume/
+
 This repository contains my online resume built using HTML, showcasing my background, skills, and experience in a clean, structured format.
 
 The project is course-inspired and fully customized, with rewritten content, improved HTML structure, semantic tags, and SEO-optimized sections aligned with modern web standards.
